@@ -27,3 +27,8 @@
 *.exe
 *.out
 *.app
+
+
+#Build and BuildPaths
+build/*
+CryptoPals/CMakeFiles/*
